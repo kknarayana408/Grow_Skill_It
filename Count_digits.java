@@ -7,7 +7,7 @@ public class Count_digits {
 		int num = 45678;// if we want use bigger number use data type double
 		int temp = num;
 		short count = 0;
-		for(;num%10 !=0;)
+		for(;num>0;)
 		{
 			num = num/10;
 			count++;

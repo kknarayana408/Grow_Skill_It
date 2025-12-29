@@ -8,7 +8,7 @@ public class Count_Even_Odd_Digits {
 		int temp = num;
 		short even_count = 0;
 		short odd_count = 0;
-		while(num%10!=0)
+		while(num!=0)
 		{
 			if(num%2==0)
 				even_count++;
