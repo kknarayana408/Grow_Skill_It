@@ -19,7 +19,6 @@ public class Count_Even_Odd_Digits {
 		System.out.println("Number of ODD numbers in "+temp+" is : "+odd_count);
 		System.out.println("Number of EVEN numbers in "+temp+" is : "+even_count);
 
-
 	}
 
 }
