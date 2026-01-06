@@ -16,7 +16,7 @@ public class Fibonacci_Series_Using_Method {
 	}
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		int n =7;
+		int n =7;	
 		System.out.print("0 1 ");
 		printFibonacci(n);
 		}

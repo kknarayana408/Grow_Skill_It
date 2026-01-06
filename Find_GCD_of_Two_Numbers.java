@@ -15,7 +15,5 @@ public class Find_GCD_of_Two_Numbers {
 		// TODO Auto-generated method stub
 		int a =24, b=36;
 		System.out.println(findGCD(a,b));
-
 	}
-
 }
